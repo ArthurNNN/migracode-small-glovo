@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "userName": "edu",
+    "position": [10, 2],
+    "foodType": "pizza"
+  },
+  {
+    "id": 2,
+    "userName": "javi",
+    "position": [1, 2],
+    "foodType": "sushi"
+  },
+  {
+    "id": 3,
+    "userName": "david",
+    "position": [0.4, 18],
+    "foodType": "omelet"
+  }
+]

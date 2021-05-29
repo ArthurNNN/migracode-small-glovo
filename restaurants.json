@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "indian-chilli",
+    "position": [1, 2],
+    "averageProductionTime": 1.5,
+    "supportedFoodTypes": ["pizza", "sushi"],
+    "averageTimePerUnitOfDistance": 1
+  },
+  {
+    "id": 2,
+    "name": "sugar-roulette",
+    "position": [3, 2],
+    "averageProductionTime": 3.2,
+    "supportedFoodTypes": ["omelet"],
+    "averageTimePerUnitOfDistance": 2
+  },
+  {
+    "id": 3,
+    "name": "la-boucha",
+    "position": [0.4, 1.8],
+    "averageProductionTime": 0.1,
+    "supportedFoodTypes": ["pizza", "omelet"],
+    "averageTimePerUnitOfDistance": 3
+  }
+]
