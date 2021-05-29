@@ -1,0 +1,23 @@
+{
+  "name": "migracode-small-glovo",
+  "version": "1.0.0",
+  "description": "- As a restaurant, I want to add/remove the new restaurant(s) I might open. - As a restaurant, I want to add/edit/remove the food I can cook, so my clients can order it. - As a restaurant, I want to edit the position of my restaurant(s), so I can be closer to my clients. - As a restaurant, I want to edit the name of my restaurant(s), so I can include new restaurants. - As a user, I want to order food, so I can eat!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurNNN/migracode-small-glovo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurNNN/migracode-small-glovo/issues"
+  },
+  "homepage": "https://github.com/ArthurNNN/migracode-small-glovo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
